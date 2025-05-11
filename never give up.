@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Never Give Up – ray2evil</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: #121212;
+      color: #fff;
+      text-align: center;
+    }
+
+    header {
+      background: #1e1e1e;
+      padding: 2rem;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      color: #00ffcc;
+    }
+
+    .hero {
+      background: url('https://source.unsplash.com/1600x600/?motivation,success') center/cover no-repeat;
+      padding: 5rem 1rem;
+      color: white;
+    }
+
+    .hero h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    .content {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .content img {
+      width: 100%;
+      max-width: 600px;
+      margin: 2rem 0;
+      border-radius: 10px;
+    }
+
+    footer {
+      background: #1e1e1e;
+      padding: 1rem;
+      color: #999;
+      font-size: 0.9rem;
+    }
+
+    .highlight {
+      color: #00ffcc;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Never Give Up – <span class="highlight">ray2evil</span></h1>
+  </header>
+
+  <section class="hero">
+    <h2>The journey may be tough, but you're tougher.</h2>
+    <p>Rise. Grind. Repeat. Quitting is not an option.</p>
+  </section>
+
+  <section class="content">
+    <h2>Why You Should Never Give Up</h2>
+    <p>
+      Every success story begins with a person who refused to quit. Life is full of challenges, but determination and resilience can take you beyond limits.
+    </p>
+
+    <img src="https://source.unsplash.com/800x400/?perseverance" alt="Perseverance" />
+
+    <p>
+      When times get hard, remember: failure is not the end. It's the beginning of growth. That's what <span class="highlight">ray2evil</span> stands for — resilience and ambition no matter what.
+    </p>
+
+    <img src="https://source.unsplash.com/800x400/?never-give-up" alt="Never Give Up" />
+  </section>
+
+  <footer>
+    Made with grit by <span class="highlight">ray2evil</span> • Stay strong.
+  </footer>
+
+</body>
+</html>
